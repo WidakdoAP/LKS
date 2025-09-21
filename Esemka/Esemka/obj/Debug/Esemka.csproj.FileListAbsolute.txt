@@ -1,0 +1,12 @@
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\obj\Debug\Esemka.csproj.AssemblyReference.cache
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\obj\Debug\Esemka.Reserve.resources
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\obj\Debug\Esemka.Seating.resources
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\obj\Debug\Esemka.Table.resources
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\obj\Debug\Esemka.Properties.Resources.resources
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\obj\Debug\Esemka.csproj.GenerateResource.cache
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\obj\Debug\Esemka.csproj.CoreCompileInputs.cache
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\bin\Debug\Esemka.exe.config
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\bin\Debug\Esemka.exe
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\bin\Debug\Esemka.pdb
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\obj\Debug\Esemka.exe
+C:\Users\Widakdo Adi Prasetyo\source\repos\Esemka\Esemka\obj\Debug\Esemka.pdb
